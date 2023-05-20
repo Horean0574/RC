@@ -1,0 +1,25 @@
+header {
+    background-color: #008B8B;
+}
+
+#headline {
+    font-size: 3.5em;
+    margin: 0;
+    text-align: center;
+    text-shadow: 10px 10px 10px #AFEEEE;
+}
+
+#headline-text {
+    cursor: pointer;
+    transition: opacity 200ms;
+}
+
+#headline-text:hover {
+    opacity: 70%;
+}
+
+#tip {
+    margin: 0;
+    padding-left: 1em;
+    padding-bottom: 1em;
+}
