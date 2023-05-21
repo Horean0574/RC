@@ -1,5 +1,7 @@
 # RC社团招人啦！欢迎报名！
 
+> 踊跃参加哦~
+
 ## 安装
 
 确保已安装好[Git](https://git-scm.com/)和[Node.js](https://nodejs.org/en)并配置环境变量，过程不再过多阐述。
