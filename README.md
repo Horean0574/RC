@@ -18,6 +18,8 @@ npm install
 2. 接着使用node执行server.js：`node server.js`；
 3. 最后在控制台点击 http://localhost:9000 即可看到运行结果。
 
+* 效果展示：https://rc.horean0574.xyz
+
 ## 关于
 
 技术支持：吴文迪 刘天逸 肖浩然
