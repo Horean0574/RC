@@ -4,10 +4,11 @@ import Layout from "../components/Layout";
 function Signup() {
     return (
         <Layout headline={"RC社团报名"}>
-            <iframe src="https://rc.horean0574.xyz" frameBorder="0" title={"RC社报名问卷星"} style={{
-                width: "100%",
+            <iframe style={{
                 height: "100%",
-            }}></iframe>
+            }} id="goldendata_form_x3zLor"
+                    src="https://jinshuju.net/f/x3zLor?background=white&banner=show&embedded=true&inner_redirect=false"
+                    width="100%" frameborder="0" allowTransparency="true"/>
         </Layout>
     );
 }
